@@ -7,4 +7,4 @@ This application will allow you to get current crypto currency prices via coinma
 
 ### Dependencies?
 ---
---* Bootstrap
+* Bootstrap
